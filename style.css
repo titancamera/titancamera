@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url("background.jpg");
+}
+
+p, h1, h2{
+    color :darkgreen;
+    text-align: center;
+}
+table,td,th{
+    border-style: solid;
+    background-color: white;
+}
+#skibbidiToilet {
+    color: floralwhite;
+}
+
+h1{
+    border-style: solid;
+    border-color:red ;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+table{
+    margin:auto;
+}
