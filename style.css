@@ -25,6 +25,9 @@ h1{
     margin: auto;
     display: block;
 }
+img{
+    display: inline;
+}
 table{
     margin:auto;
 }
